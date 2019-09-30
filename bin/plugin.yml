@@ -1,8 +1,0 @@
-name: Pokemon	
-main: com.pokemon.server.Server
-version: 0.1
-author: Sqi	
-description: Pokemon In Minecraft
-commands:
-    balance:
-        aliases: [bal, pokedollars, pd]
